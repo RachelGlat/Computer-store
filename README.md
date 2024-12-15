@@ -18,6 +18,4 @@ A Java-based application simulating a computer store where users can browse, sel
 2. Open the project in your Java IDE.
 3. Compile and run the project.
 
----
 
-Let me know if you'd like further adjustments!
